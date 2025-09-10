@@ -1,0 +1,7 @@
+FastAPI
+uvicorn[standard]
+httpx
+pydantic
+alembic
+pip install psycopg2-binary
+SQLAlchemy
